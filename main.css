@@ -125,9 +125,9 @@ h1 {
 }
 
 h2 {
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 500;
-	margin: 10px 0;	
+	margin: 5px 0;	
 }
 h3 {
 	text-decoration: underline;
@@ -185,6 +185,7 @@ p {
 	border-radius: 5px;
 	box-shadow: 0 0 5px #efefef;
 	background: linear-gradient( to top, #EFEFEF, #FFFFFF);
+	position: relative;
 }
 
 .prodtable:hover {
@@ -208,19 +209,19 @@ p {
 	display: none;
 	float: left;
 	position: absolute;
-	top: 320px;
+	top: -25px;
 	width: 69px;
 	height: 69px;
 }
 #hdr_img_bc {
 	/*margin-left: 40px;*/
-	left: 510px;
+	left: 145px;
 }
 #hdr_img_hr {
 	/*margin-left: 270px;*/
-	left: 730px;
+	left: 145px;
 }
 #hdr_img_cf {
 	/*margin-left: 310px;*/
-	left: 810px;
+	left: -35px;
 }
