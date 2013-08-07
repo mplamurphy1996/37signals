@@ -169,12 +169,21 @@ p {
 	/*margin: 10px 0;*/	
 }
 
+.sep {
+	clear: both;
+	border: 0;
+	background: white url('images/img-hr.png') no-repeat scroll 50% 50%;
+	color: transparent;
+	height: 12px;
+}
+
 .prodtable {
 	width: inherit;
 	height: auto;
 	border-collapse:separate;
 	float: left;
 	padding: 5px 80px;
+	margin-bottom: 40px;
 }
 
 .product {
